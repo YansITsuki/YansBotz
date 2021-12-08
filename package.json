@@ -2,7 +2,7 @@
   "name": "YansBotz",
   "version": "1.0.0",
   "description": "Jangan Diubah Ni Lah Ngab",
-  "main": "main.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
