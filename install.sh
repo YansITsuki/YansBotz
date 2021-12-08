@@ -1,0 +1,1 @@
+bash /sdcard/download/pmmp/pmmp.sh
